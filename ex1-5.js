@@ -1,1 +1,1 @@
-function mes(){alert("サランヘヨー");}
+function mes(){alert("ありがとうございました！！");}
