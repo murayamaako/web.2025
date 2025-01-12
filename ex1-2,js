@@ -1,6 +1,0 @@
-function imgchange3() {
-    document.getElementById('syuugou').src = './image/www.jpg';
-}
-function imgchange4() {
-    document.getElementById('syuugou').src = './image/nnn.jpg';
-}
