@@ -1,1 +1,1 @@
-aleat{Welcome mypeage!}
+alert('WELCOME MYPAGE!')
